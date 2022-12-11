@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">PrimeiroApp</string>
+    <string name="hello" translatable="false">Olá Mundo!</string>
+</resources>
